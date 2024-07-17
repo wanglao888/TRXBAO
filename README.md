@@ -1,6 +1,6 @@
 # TRX 自助兑币机/能量租赁 机器人
 
-### 波场TRON能量租赁机器人、TRX能量自助租赁、TRX自助兑币机、自助兑换TRX、TRX兑换、能量转账api、波场能量api。
+### 波场TRON能量租赁机器人、Telegram会员自动开通、TRX能量自助租赁、TRX自助兑币机、自助兑换TRX、TRX兑换、能量转账api、波场能量api
 
 
 
